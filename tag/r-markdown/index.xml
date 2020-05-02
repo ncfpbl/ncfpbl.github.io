@@ -5,18 +5,18 @@
     <link>/tag/r-markdown/</link>
       <atom:link href="/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>R Markdown</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
       <title>R Markdown</title>
       <link>/tag/r-markdown/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/sample/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/sample/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
