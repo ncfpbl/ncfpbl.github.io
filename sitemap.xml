@@ -19,11 +19,47 @@
   
   <url>
     <loc>/join/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/example/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/elections/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/florida/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/fl18vote/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,11 +74,7 @@
   
   <url>
     <loc>/author/annika-kufrovich/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-05-01T16:59:30-04:00</lastmod>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
@@ -56,29 +88,27 @@
   
   <url>
     <loc>/author/jack-belk/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jack-reilly/</loc>
-    <lastmod>2020-05-01T16:59:30-04:00</lastmod>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jennifer-lin/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-01T16:59:30-04:00</lastmod>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
   </url>
   
   <url>
@@ -93,10 +123,7 @@
   
   <url>
     <loc>/author/rory-renzy/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
 </urlset>
