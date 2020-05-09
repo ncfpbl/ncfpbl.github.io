@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Florida | PEBL@NCF</title>
-    <link>/tag/florida/</link>
-      <atom:link href="/tag/florida/index.xml" rel="self" type="application/rss+xml" />
-    <description>Florida</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    <title>Voting in Florida | PEBL@NCF</title>
+    <link>/category/voting-in-florida/</link>
+      <atom:link href="/category/voting-in-florida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Voting in Florida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
-      <title>Florida</title>
-      <link>/tag/florida/</link>
+      <title>Voting in Florida</title>
+      <link>/category/voting-in-florida/</link>
     </image>
-    
-    <item>
-      <title>Drawing Campaign Finance Maps for Florida using FEC data</title>
-      <link>/publication/flcampaignfinance/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/flcampaignfinance/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-</description>
-    </item>
     
     <item>
       <title>Scott, Nelson, DeSantis, Gillum &amp; Beyond$:$ A Look at 2018 Florida Precinct Returns</title>

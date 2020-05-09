@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/map/flcampaignfinance/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/elections/</loc>
     <lastmod>2020-05-03T09:19:02-04:00</lastmod>
   </url>
@@ -63,17 +58,7 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/map/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/maps/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,17 +88,7 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/rural/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ruralmatters/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/rural/ruralmatters/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,18 +103,8 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/flvote/fl18vote/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/vote/</loc>
+    <loc>/category/voting-in-florida/</loc>
     <lastmod>2020-05-03T09:19:02-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/flvote/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,17 +113,7 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/flvote/mail/</loc>
-    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/questionrm/</loc>
-    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/rural/questionrm/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/rural/cattitude/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/networks/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -204,16 +154,6 @@
   
   <url>
     <loc>/publication/snandpb/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/network/snandpb/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/network/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,27 +173,12 @@
   </url>
   
   <url>
-    <loc>/sorted-papers/flvote/partyage/</loc>
-    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/trust/</loc>
     <lastmod>2018-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/sorted-papers/network/trust/</loc>
-    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/socialdem/</loc>
-    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sorted-papers/rural/socialdem/</loc>
     <lastmod>2018-03-24T00:00:00+00:00</lastmod>
   </url>
   
