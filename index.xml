@@ -87,11 +87,19 @@
     
     <item>
       <title>Drawing Campaign Finance Maps for Florida using FEC data</title>
-      <link>/map/flcampaignfinance/</link>
+      <link>/publication/flcampaignfinance/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>/map/flcampaignfinance/</guid>
+      <guid>/publication/flcampaignfinance/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Rural Matters$:$ Rural and Urban Politics and the Problems of Measurement</title>
+      <link>/publication/ruralmatters/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ruralmatters/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -99,6 +107,22 @@
       <link>/publication/fl18vote/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/fl18vote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color, Size, and the Effectiveness of Direct Mail$:$ A Study on Voter Turnout in a Local Election</title>
+      <link>/publication/mail/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Question of Rural Measurement</title>
+      <link>/publication/questionrm/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/questionrm/</guid>
       <description></description>
     </item>
     
@@ -234,6 +258,46 @@ Three
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Rural Politics, Skepticism, and Citizen Attitudes in the 2015 Canadian Election.</title>
+      <link>/publication/cattitude/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cattitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Connectedness and Political Behavior in the 2016 American Elections</title>
+      <link>/publication/snandpb/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/snandpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party Affiliation and the Race and Age of One’s Neighbors in Sarasota County</title>
+      <link>/publication/partyage/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/partyage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Trust and Ideological Extremism</title>
+      <link>/publication/trust/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Democrats in the Canadian Prairies$:$ A Comparative Study</title>
+      <link>/publication/socialdem/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/socialdem/</guid>
+      <description></description>
     </item>
     
   </channel>

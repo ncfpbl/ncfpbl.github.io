@@ -33,7 +33,12 @@
   </url>
   
   <url>
-    <loc>/map/flcampaignfinance/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-03T09:19:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/flcampaignfinance/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/map/</loc>
+    <loc>/category/maps/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,8 +68,8 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-05-03T09:19:02-04:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,8 +78,43 @@
   </url>
   
   <url>
+    <loc>/category/rural/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rural/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ruralmatters/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-05-03T09:19:02-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/fl18vote/</loc>
     <lastmod>2020-05-03T09:19:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/vote/</loc>
+    <lastmod>2020-05-03T09:19:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mail/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/questionrm/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,12 +128,63 @@
   </url>
   
   <url>
-    <loc>/author/annika-kufrovich/</loc>
-    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
+    <loc>/author/debra-leiter/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/author/mollie-saumier/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cattitude/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/networks/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/networks/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/snandpb/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dario-macieira-mitchell/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parties/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/partyage/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/trust/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/socialdem/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/annika-kufrovich/</loc>
+    <lastmod>2020-05-02T09:55:26-04:00</lastmod>
   </url>
   
   <url>
@@ -127,12 +218,12 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/talk/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
   </url>
   

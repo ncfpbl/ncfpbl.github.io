@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network | PEBL@NCF</title>
+    <link>/tag/network/</link>
+      <atom:link href="/tag/network/index.xml" rel="self" type="application/rss+xml" />
+    <description>network</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
+      <title>network</title>
+      <link>/tag/network/</link>
+    </image>
+    
+    <item>
+      <title>Political Trust and Ideological Extremism</title>
+      <link>/network/trust/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/network/trust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

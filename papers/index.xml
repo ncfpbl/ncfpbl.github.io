@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Papers | PEBL@NCF</title>
+    <link>/papers/</link>
+      <atom:link href="/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Papers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent Papers</title>
+      <link>/papers/</link>
+    </image>
+    
+    <item>
+      <title>On the Question of Rural Measurement</title>
+      <link>/papers/questionrm/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/questionrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural Matters$:$ Rural and Urban Politics and the Problems of Measurement</title>
+      <link>/papers/ruralmatters/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/ruralmatters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott, Nelson, DeSantis, Gillum &amp; Beyond$:$ A Look at 2018 Florida Precinct Returns</title>
+      <link>/papers/fl18vote/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/fl18vote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural Politics, Skepticism, and Citizen Attitudes in the 2015 Canadian Election.</title>
+      <link>/papers/cattitude/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/papers/cattitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Connectedness and Political Behavior in the 2016 American Elections</title>
+      <link>/papers/snandpb/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/papers/snandpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Democrats in the Canadian Prairies$:$ A Comparative Study</title>
+      <link>/papers/socialdem/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/papers/socialdem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

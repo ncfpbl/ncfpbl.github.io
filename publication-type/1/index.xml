@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,23 +13,67 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/sample/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/sample/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Rural Matters$:$ Rural and Urban Politics and the Problems of Measurement</title>
+      <link>/publication/ruralmatters/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ruralmatters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color, Size, and the Effectiveness of Direct Mail$:$ A Study on Voter Turnout in a Local Election</title>
+      <link>/publication/mail/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Question of Rural Measurement</title>
+      <link>/publication/questionrm/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/questionrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural Politics, Skepticism, and Citizen Attitudes in the 2015 Canadian Election.</title>
+      <link>/publication/cattitude/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cattitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Connectedness and Political Behavior in the 2016 American Elections</title>
+      <link>/publication/snandpb/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/snandpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party Affiliation and the Race and Age of One’s Neighbors in Sarasota County</title>
+      <link>/publication/partyage/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/partyage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Trust and Ideological Extremism</title>
+      <link>/publication/trust/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Democrats in the Canadian Prairies$:$ A Comparative Study</title>
+      <link>/publication/socialdem/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/socialdem/</guid>
+      <description></description>
     </item>
     
   </channel>
