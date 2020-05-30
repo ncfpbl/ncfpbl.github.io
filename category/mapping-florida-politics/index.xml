@@ -5,7 +5,7 @@
     <link>/category/mapping-florida-politics/</link>
       <atom:link href="/category/mapping-florida-politics/index.xml" rel="self" type="application/rss+xml" />
     <description>Mapping Florida Politics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
       <title>Mapping Florida Politics</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Mapping Health Distributions in Florida using Public State Data</title>
+      <link>/publication/flhealth/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/flhealth/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Drawing Campaign Finance Maps for Florida using FEC data</title>
       <link>/publication/flcampaignfinance/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/flcampaignfinance/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this project, I draw maps reflecting Florida&amp;rsquo;s donations to the 2016 General Election. I use data from the Federal Elections Commission (FEC) to draw maps that demonstrate the amount of money and number of donors that residents in each zip code contribute to the Hillary Clinton and the Donald Trump Presidential Campaigns. The paper also serves as a guide for retrieving, cleaning, and using FEC data for research use beyond the goals of this project.&lt;/p&gt;
 </description>
     </item>
     
