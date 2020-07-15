@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florida Political Geography and Voting | PEBL@NCF</title>
+    <link>/category/florida-political-geography-and-voting/</link>
+      <atom:link href="/category/florida-political-geography-and-voting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florida Political Geography and Voting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdbb0ea3c038feef1ae70e0b28be7962_23061_512x512_fill_lanczos_center_2.png</url>
+      <title>Florida Political Geography and Voting</title>
+      <link>/category/florida-political-geography-and-voting/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Health Distributions in Florida using Public State Data</title>
+      <link>/publication/flhealth/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/flhealth/</guid>
+      <description>&lt;h2 id=&#34;maps-of-health-resource-distribution-in-florida&#34;&gt;Maps of Health Resource Distribution in Florida&lt;/h2&gt;
+&lt;embed src=&#34;./FLHealth.html&#34; width=&#34;100%&#34; height=&#34;800&#34; frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;h2 id=&#34;maps-of-health-environment-distribution-in-florida&#34;&gt;Maps of Health Environment Distribution in Florida&lt;/h2&gt;
+&lt;embed src=&#34;./FLHealthEnv.html&#34; width=&#34;100%&#34; height=&#34;800&#34; frameborder=&#34;0&#34; allowfullscreen&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drawing Campaign Finance Maps for Florida using FEC data</title>
+      <link>/publication/flcampaignfinance/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/flcampaignfinance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott, Nelson, DeSantis, Gillum &amp; Beyond$:$ A Look at 2018 Florida Precinct Returns</title>
+      <link>/publication/fl18vote/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/fl18vote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color, Size, and the Effectiveness of Direct Mail$:$ A Study on Voter Turnout in a Local Election</title>
+      <link>/publication/mail/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party Affiliation and the Race and Age of One’s Neighbors in Sarasota County</title>
+      <link>/publication/partyage/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/partyage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
