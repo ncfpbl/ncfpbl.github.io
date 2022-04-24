@@ -1,270 +1,164 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/join/</loc>
     <lastmod>2020-05-12T10:41:02-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/example/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-02-05T17:08:17-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-05T17:10:04-05:00</lastmod>
+  </url><url>
     <loc>/publication-type/4/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-02-05T17:08:17-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-05T17:10:04-05:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/florida/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/florida-political-geography-and-voting/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/flhealth/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/maps/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/flcampaignfinance/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/elections/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/catherine-a.-cottrell/</loc>
     <lastmod>2020-05-12T10:41:02-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/moraltext/</loc>
     <lastmod>2020-05-12T10:41:02-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/social-networks/</loc>
     <lastmod>2020-05-12T10:41:02-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/rural/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/rural-and-place-based-politics/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ruralmatters/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fl18vote/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/mail/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/questionrm/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/debra-leiter/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cattitude/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/networks/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/snandpb/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/parties/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/partyage/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/trust/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/socialdem/</loc>
     <lastmod>2020-07-15T16:06:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/annika-kufrovich/</loc>
     <lastmod>2020-05-02T09:55:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/dario-mitchell/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/eugenia-quintanilla/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jack-belk/</loc>
     <lastmod>2020-05-02T09:55:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jack-reilly/</loc>
     <lastmod>2020-05-02T09:55:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jacob-brody-ogborn/</loc>
     <lastmod>2020-09-08T19:18:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jennifer-lin/</loc>
     <lastmod>2020-09-02T18:21:11-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/mollie-saumier/</loc>
     <lastmod>2020-07-15T15:57:23-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/omar-guerrero/</loc>
     <lastmod>2020-09-02T18:21:11-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2020-05-01T16:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/rory-renzy/</loc>
     <lastmod>2020-05-09T11:03:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sarah-mcnitt/</loc>
-    <lastmod>2021-02-05T17:08:17-05:00</lastmod>
+    <lastmod>2021-02-05T17:10:04-05:00</lastmod>
   </url>
-  
 </urlset>
